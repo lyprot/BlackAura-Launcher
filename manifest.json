@@ -2,32 +2,32 @@
   "schema_version": 1,
   "launcher": {
     "version": "2.1.0",
-    "url": "",
+    "url": "https://github.com/lyprot/BlackAura-Launcher/releases/download/v2.1.0/BlackAura_Launcher.exe",
     "sha256": "1a9cba94996fed1c8df2079da9b50ad3508f3ba7eda10a81fb4825680eddfd2a",
     "size": 162530493
   },
   "packages": {
     "base": {
       "version": "1.0.0",
-      "url": "",
+      "url": "https://github.com/lyprot/BlackAura-Launcher/releases/download/v2.1.0/BlackAura_Base.zip",
       "sha256": "87e6316192258287d820d44024176e8e6d4dac5eaa0555dc46a3eeeeeab04027",
       "size": 877932796
     },
     "low": {
       "version": "1.0.0",
-      "url": "",
+      "url": "https://github.com/lyprot/BlackAura-Launcher/releases/download/v2.1.0/BlackAura_Low.zip",
       "sha256": "1282611b78b6e9f663bfe376f7e0aea5dd9c4a9a737e4d197c340a212baee938",
       "size": 416649056
     },
     "balanced": {
       "version": "1.0.0",
-      "url": "",
+      "url": "https://github.com/lyprot/BlackAura-Launcher/releases/download/v2.1.0/BlackAura_Balanced.zip",
       "sha256": "0f28e28146089a0c63f6f22200d3488157707d910baf68550c5c5a3c6e9d190f",
       "size": 472647416
     },
     "ultra": {
       "version": "1.0.0",
-      "url": "",
+      "url": "https://github.com/lyprot/BlackAura-Launcher/releases/download/v2.1.0/BlackAura_Ultra.zip",
       "sha256": "d31e2d43257160402760b39a1aeaa7163e073a7a5bcf6b35fc4cbc638133f624",
       "size": 472647452
     }
