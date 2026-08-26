@@ -3,8 +3,8 @@
   "launcher": {
     "version": "2.2.0",
     "url": "https://github.com/lyprot/BlackAura-Launcher/releases/download/v2.2.0/BlackAura_Launcher.exe",
-    "sha256": "7aa4e860ec7533b92796f8643b374d23c14f6faa06a44ca9248a9d7a86239a39",
-    "size": 162476072
+    "sha256": "7f0c40e6bd77d0a762e541d46d6c0bc08476630430c62228908b607155d83add",
+    "size": 167732540
   },
   "packages": {
     "base": {
