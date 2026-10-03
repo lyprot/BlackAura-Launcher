@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "launcher": {
+    "version": "1.0.5",
+    "url": "https://github.com/lyprot/BlackAura-Launcher/releases/download/v1.0.5/BALauncher.exe",
+    "sha256": "a7a5ed93f72d5007a3dcefcc44a7e1c8fbdc7fe719fea40f9685e1fad3b8b548",
+    "size": 66034423
+  },
+  "packages": {
+    "low": {
+      "version": "1.0.4",
+      "url": "https://blackaura-api.lyprot.workers.dev/v1/packages/low/1.0.4",
+      "sha256": "48feb4ec7ecc053875700edce1a430aa300a93d16e09bd8cfe358c0a36be725c",
+      "size": 417709379
+    },
+    "balanced": {
+      "version": "1.0.4",
+      "url": "https://blackaura-api.lyprot.workers.dev/v1/packages/balanced/1.0.4",
+      "sha256": "b4ab3660e3e452f9b48d5454b8c474b4f36cbb7d047d8a568bf7234de46bf9ad",
+      "size": 473757261
+    },
+    "ultra": {
+      "version": "1.0.4",
+      "url": "https://blackaura-api.lyprot.workers.dev/v1/packages/ultra/1.0.4",
+      "sha256": "f60d70689695a7f929639115b8b099f3458df58d5e5e22a731dcfd88e8ce530d",
+      "size": 473757302
+    }
+  },
+  "changelog": "BlackAURA Launcher 1.0.5 — новое игровое лобби, крупные карточки участников, улучшенная устойчивость комнат, сетевые разрешения и диагностика. Комната: до четырёх участников, до пяти часов; создание раз в час. После обновления перезапустите Minecraft через лаунчер."
+}
