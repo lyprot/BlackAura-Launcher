@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "launcher": {
+    "version": "1.1.7",
+    "url": "https://github.com/lyprot/BlackAura-Launcher/releases/download/v1.1.7/BALauncher.exe",
+    "sha256": "5d88918d0d54a43363d6518a31ca433c6adec04900d20b4bbdda25e5d06c7d78",
+    "size": 78107795
+  },
+  "packages": {
+    "low": {
+      "version": "1.1.0",
+      "url": "https://blackaura-api.lyprot.workers.dev/v1/packages/low/1.1.0",
+      "sha256": "1713044fd88b7342c9d5f89b32431193d8e79e00e72fae2299f85c7e32e20ce1",
+      "size": 416873834
+    },
+    "balanced": {
+      "version": "1.1.0",
+      "url": "https://blackaura-api.lyprot.workers.dev/v1/packages/balanced/1.1.0",
+      "sha256": "1f94a53a59e62aaeb8c8ae978ba34c86d1d8953493446f30dafa832fd961d23a",
+      "size": 472921949
+    },
+    "ultra": {
+      "version": "1.1.0",
+      "url": "https://blackaura-api.lyprot.workers.dev/v1/packages/ultra/1.1.0",
+      "sha256": "ab620d5507759999b7a5da1fe8589b643176ee1ca0cfae7829a8d042ff939b1e",
+      "size": 472922025
+    }
+  },
+  "changelog": "Различия перед входом в комнату теперь отображаются в удобных карточках — и хозяину, и гостю. Проверка работает для BlackAura и обычных установок Minecraft. Добавлены копирование списка и проверка выбранной установки. Оптимизирован лаунчер."
+}
