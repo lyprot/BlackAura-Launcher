@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
   "launcher": {
-    "version": "1.2.0",
-    "url": "https://github.com/lyprot/BlackAura-Launcher/releases/download/v1.2.0/BALauncher.exe",
-    "sha256": "0a5dd99a6a5f162d6dcdb6eb11d376a8e9236cce1724acfe4df357603cf2c097",
-    "size": 74445530
+    "version": "1.2.1",
+    "url": "https://github.com/lyprot/BlackAura-Launcher/releases/download/v1.2.1/BALauncher.exe",
+    "sha256": "9a7975e98a9c1781f9cc48870dd67b70c6a3e54ca38ad1e3ea4311737dc48b44",
+    "size": 74582437
   },
   "packages": {
     "low": {
@@ -26,5 +26,5 @@
       "size": 472320955
     }
   },
-  "changelog": "Low, Balanced и Ultra отдельно сохраняют личные настройки. Улучшен журнал: подробности, фильтры и отчёт без дополнительных запросов к серверу. Обновлено обучение по смене и сбросу пресетов."
+  "changelog": "Оптимизировано хранение пресетов: один актуальный набор настроек для каждого, очистка старых архивов и временных копий после успешной установки. Обновлены оформление журнала и кнопки. Без дополнительных запросов к серверу."
 }
