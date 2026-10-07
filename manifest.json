@@ -1,30 +1,30 @@
 {
   "schema_version": 1,
   "launcher": {
-    "version": "1.1.9",
-    "url": "https://github.com/lyprot/BlackAura-Launcher/releases/download/v1.1.9/BALauncher.exe",
-    "sha256": "beb2f06f436ec6bc4da36a9e8c1482ea16e95b5e5ebfe8aa52b3821ca5c0f8df",
-    "size": 74261344
+    "version": "1.2.0",
+    "url": "https://github.com/lyprot/BlackAura-Launcher/releases/download/v1.2.0/BALauncher.exe",
+    "sha256": "0a5dd99a6a5f162d6dcdb6eb11d376a8e9236cce1724acfe4df357603cf2c097",
+    "size": 74445530
   },
   "packages": {
     "low": {
-      "version": "1.1.2",
-      "url": "https://blackaura-api.lyprot.workers.dev/v1/packages/low/1.1.2",
-      "sha256": "2f3a0d200307a99d0c11ba6099d863ae6b34aac6f704caaf54f1ea02d2caac9f",
-      "size": 416336294
+      "version": "1.1.3",
+      "url": "https://blackaura-api.lyprot.workers.dev/v1/packages/low/1.1.3",
+      "sha256": "b2443f7460d43f7a600788f1a3aa311961502e3696a0e78e1d53da68378761b2",
+      "size": 416060138
     },
     "balanced": {
-      "version": "1.1.2",
-      "url": "https://blackaura-api.lyprot.workers.dev/v1/packages/balanced/1.1.2",
-      "sha256": "95dc12fa9892404080d9509a2750c638693d8680e7816a5af50786927093981a",
-      "size": 472319238
+      "version": "1.1.3",
+      "url": "https://blackaura-api.lyprot.workers.dev/v1/packages/balanced/1.1.3",
+      "sha256": "a23b1dd38f6692fc19ac928c86cbf9853ef6f8ddeb5878f8439b64a23d196890",
+      "size": 472042655
     },
     "ultra": {
-      "version": "1.1.2",
-      "url": "https://blackaura-api.lyprot.workers.dev/v1/packages/ultra/1.1.2",
-      "sha256": "c0f66e0f24c69f2434e408ebf2da4b87173b63345745e82bec82b25d3aa46015",
-      "size": 472319314
+      "version": "1.1.3",
+      "url": "https://blackaura-api.lyprot.workers.dev/v1/packages/ultra/1.1.3",
+      "sha256": "6b40f1f900820b43d1a50a369375072fab6405c562948fca081cd9100288cc0f",
+      "size": 472320955
     }
   },
-  "changelog": "Настройки игры и шейдеров сохраняются при смене пресета. Исправлено отображение выхода из комнаты. Улучшены оптимизация и удобство работы."
+  "changelog": "Low, Balanced и Ultra отдельно сохраняют личные настройки. Улучшен журнал: подробности, фильтры и отчёт без дополнительных запросов к серверу. Обновлено обучение по смене и сбросу пресетов."
 }
