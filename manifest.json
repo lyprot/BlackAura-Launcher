@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "launcher": {
-    "version": "1.2.2",
-    "url": "https://github.com/lyprot/BlackAura-Launcher/releases/download/v1.2.2/BALauncher.exe",
-    "sha256": "a9be29f7245fab8f65e1be368814b101af9f966cb2ed05c42b29c5a45abcd0e0",
-    "size": 78582336
+    "version": "1.2.3",
+    "url": "https://github.com/lyprot/BlackAura-Launcher/releases/download/v1.2.3/BALauncher.exe",
+    "sha256": "5ec03ba4b92ab2c913b868d937617083681b5a8bf37d25793a24f3722fb334bb",
+    "size": 78608638
   }
 }
